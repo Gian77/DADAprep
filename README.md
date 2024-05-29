@@ -1,5 +1,4 @@
 ```bash
-
   _____          _____                               
  |  __ \   /\   |  __ \   /\                         
  | |  | | /  \  | |  | | /  \   _ __  _ __ ___ _ __  
@@ -8,10 +7,8 @@
  |_____/_/    \_\_____/_/    \_\ .__/|_|  \___| .__/ 
                                | |            | |    
                                |_|            |_|    
-
-**Prep**are your illumina reads before **DADA**2 pipeline
-<br>
 ```
+**Prep**are your illumina reads before **DADA**2 pipeline<br>
 
 written by Gian M N Benucci, PhD<br>
 email: *benucci@msu.edu*<br>
