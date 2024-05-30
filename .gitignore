@@ -1,3 +1,7 @@
+# Things not to commit
 config.bak
 outputs
 slurms
+rawdata/
+slurms/
+outputs/
