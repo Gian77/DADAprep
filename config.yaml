@@ -5,7 +5,7 @@
 
 #************* ALL THE FIELDS BELOW MUST BE SELECTED BY THE USER **************#
 #==============================================================================#
-project_dir="/mnt/home/benucci/DADA2_pipeline"
+project_dir="/mnt/home/benucci/DADAprep"
 
 # Change your MSUusername based on MSU ID 
 MSUusername="benucci"

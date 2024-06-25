@@ -1,11 +1,12 @@
 #!/bin/bash -login
 
-#SBATCH --time=02:00:00
-#SBATCH --nodes=1-2
+#SBATCH --time=03:59:00
+#SBATCH --nodes=1
 #SBATCH --ntasks=1  
-#SBATCH --cpus-per-task=16
+#SBATCH --cpus-per-task=32
 #SBATCH --mem=64G
 #SBATCH --job-name 1fastqc
+#SBATCH -A glbrc
 
 cd ${SLURM_SUBMIT_DIR}
 cores=$SLURM_CPUS_PER_TASK
