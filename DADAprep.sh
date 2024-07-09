@@ -12,8 +12,7 @@ cat << "EOF"
 
 EOF
 
-echo -e "
-Hello there, this is DADAprep, a pipeline to prepare your illumina reads to run DADA2\n
+echo -e "This is DADAprep, a pipeline to prepare your illumina reads to run DADA2\n
 DADAprep v.1.0 by Gian M. N. Benucci, P.hD.
 email: benucci[at]msu[dot]edu
 May 24, 2024
